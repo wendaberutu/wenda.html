@@ -1,0 +1,29 @@
+ body {
+	  background-image: url("gambar/gambarku.jpg");
+ } 
+ img{
+	 border-radius : 80%;
+	 } 
+	 
+
+table{
+	width: 1020 ;
+	 border: double;
+	 padding :4 ;
+	 text-align :center ;
+	 margin : auto;
+}
+
+th{
+	text-align : left;
+	
+}
+th.tgh{
+	background-color : blue;
+	text-align: center;
+}
+h1{
+	text-align :center; 
+}
+
+	
